@@ -10,5 +10,4 @@ Se va a ver asi cuando se ejecuta No es responsive en pantalla completa.
 
 
 
-Una vez ejecutado conseder los permisos ya que te lo detecta como sospechoso pero No lo es
-en la parte que dice longitud tienen que ingresar numeros. Todo lo que copies se va a quedar en el portapapeles lo podes inspeccionar apretando la tecla Windows + la tecla (V).
+Una vez ejecutado conceder los permisos ya que te lo detecta como sospechoso pero No lo es. En la parte que dice longitud tienen que ingresar numeros. Todo lo que copies se va a quedar en el portapapeles lo podes inspeccionar apretando la tecla Windows + la tecla (V).
