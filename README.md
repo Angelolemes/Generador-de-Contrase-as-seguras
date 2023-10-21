@@ -1,6 +1,6 @@
 # Generador-de-Contrase-as-seguras
 App de escritorio hecha en Python es un generador de contraseñas seguras hecha con Python
-Solo debe descargar la carpeta Dist e ir a la carpeta Dist y ejecutar el archivo GeneradorContraseñas.exe
+Solo debe descargar la carpeta Dist e ir a la carpeta Dist y ejecutar el archivo GeneradorContraseñas.exe.
 Se va a ver asi cuando se ejecuta No es responsive en pantalla completa.
 
 
