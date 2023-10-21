@@ -1,6 +1,6 @@
 #Hecho por Angelo Lemes
 
-import random
+import secrets
 import string
 import tkinter as tk
 import tkinter.messagebox
@@ -13,7 +13,7 @@ def generar_contrasena(longitud, incluir_mayusculas, incluir_numeros, incluir_si
         caracteres += string.digits
     if incluir_simbolos:
         caracteres += string.punctuation
-    contrasena = ''.join(random.choice(caracteres) for i in range(longitud))
+    contrasena = ''.join(secrets.choice(caracteres) for i in range(longitud))
     return contrasena
 
 def generar_contrasena_gui():
